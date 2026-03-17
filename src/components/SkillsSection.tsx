@@ -12,7 +12,7 @@ const categories = [
   },
   {
     title: "Database",
-    skills: ["MongoDB"],
+    skills: ["SQLITE", "MongoDB"],
   },
   {
     title: "Tools & Platforms",
