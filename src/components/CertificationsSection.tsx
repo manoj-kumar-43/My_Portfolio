@@ -30,7 +30,7 @@ const certifications = [
   {
     title: "Build Your Own Dynamic Web Application",
     issuer: "CCBP 4.0 Academy, NxtWave",
-    date: "Junuary 2026",
+    date: "November 2025",
     tech: ["JavaScript"],
   }
 ];
