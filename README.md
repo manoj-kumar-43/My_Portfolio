@@ -12,8 +12,11 @@ The Hero Section introduces me as a developer and gives visitors a quick underst
 - Role: **Aspiring MERN Stack Developer**
 - A short professional tagline about my interest in web development
 - Quick navigation buttons to explore:
-  - Projects
   - About Me
+  - Education
+  - Skill
+  - Project
+  - Certifications
   - Contact
 
 This section creates the **first impression for recruiters visiting the portfolio**.
