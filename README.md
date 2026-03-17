@@ -11,7 +11,8 @@ This portfolio highlights my work in **web development, software development, an
 > Add a screenshot of your portfolio here
 
 ```
-![Portfolio Preview](./screenshot.png)
+<img width="1906" height="928" alt="Screenshot 2026-03-17 114013" src="https://github.com/user-attachments/assets/27702b59-872f-4021-ba6f-0d92571f4733" />
+
 ```
 
 ---
@@ -19,7 +20,7 @@ This portfolio highlights my work in **web development, software development, an
 ## 🚀 Live Demo
 
 🔗 **Portfolio Website:**  
-(Add your portfolio live link here)
+https://my-portfolio-six-azure-39.vercel.app/
 
 ---
 
