@@ -16,7 +16,7 @@ const timelineData: TimelineItem[] = [
     organization: "BPUT University, Rourkela (RITE)",
     period: "2022 – 2026",
     description:
-      "Studying at Radhakrishna Institute of Technology and Engineering. Built multiple hands-on projects leveraging modern web technologies including HTML, CSS, Bootstrap, JavaScript, Python, MySQL, Node.JS and React",
+      "Studying at Radhakrishna Institute of Technology and Engineering. Built multiple hands-on projects leveraging modern web technologies including HTML, CSS, Bootstrap, JavaScript, Python, MySQL, Node.JS and React.",
   },
   {
     type: "education",
