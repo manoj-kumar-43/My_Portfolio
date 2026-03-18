@@ -87,7 +87,7 @@ Example featured project:
 A Machine Learning based web application that predicts whether news is **real or fake** using a **Logistic Regression model**. Users can input news text and the system provides a prediction instantly.
 
 Live Demo:  
-https://verify-fake.vercel.app/
+https://my-portfolio-six-azure-39.vercel.app
 
 GitHub Repository:  
 https://github.com/manoj-kumar-43
