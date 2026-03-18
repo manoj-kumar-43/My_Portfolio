@@ -50,11 +50,13 @@ This section displays the technologies and tools I use for **web development and
 
 **Backend Technologies**
 
+- Python 
 - Node.js
 - Express.js
 
 **Database**
 
+- SQLITE
 - MongoDB
 
 **Development Tools**
