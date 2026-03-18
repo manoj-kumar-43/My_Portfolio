@@ -30,7 +30,7 @@ const ContactSection = () => (
           <span className="text-sm font-mono text-muted-foreground group-hover:text-foreground transition-colors">GitHub</span>
         </a>
         <a
-          href="https://mail.google.com/mail/u/1/#inbox?compose=new"
+          href="https://mkumar78033@gmail.com"
           className="glass-card p-6 flex flex-col items-center gap-3 hover:border-primary/50 hover-lift group"
         >
           <Mail className="text-muted-foreground group-hover:text-primary transition-colors" size={28} />
