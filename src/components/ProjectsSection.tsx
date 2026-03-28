@@ -25,6 +25,20 @@ import { ExternalLink, Github } from "lucide-react";
 
 const projects = [
   {
+  title: "Nova AI Chat Bot",
+  description: "A full-stack AI chatbot application built using the MERN stack that allows users to interact with an AI assistant in real time. It integrates an AI API to generate intelligent responses and provides a clean, responsive user experience.",
+  features: [
+    "Real-time AI chat interaction",
+    "Integrated AI API for dynamic responses",
+    "Responsive and user-friendly interface",
+    "RESTful API-based backend architecture",
+    "Deployed and accessible online",
+  ],
+  tech: ["React", "Node.js", "Express.js", "MongoDB", "REST API", "AI API"],
+  live: "https://nova-ai-chat-self.vercel.app/",
+  github: "https://github.com/manoj-kumar-43"
+},
+  {
     title: "Fake News Detection System",
     description:
       "A web application that detects whether a news article is real or fake using machine learning (Logistic Regression model). Users can input news text and the system predicts the authenticity of the news.",
