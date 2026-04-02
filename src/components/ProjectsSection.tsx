@@ -49,7 +49,7 @@ const projects = [
       "Fast result generation",
     ],
     tech: ["Python", "ML", "React", "Vercel"],
-    live: "https://verify-fake.vercel.app/",
+    live: "https://fake-news-detect-five.vercel.app",
     github: "https://github.com/manoj-kumar-43",
   },
   {
