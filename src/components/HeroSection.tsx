@@ -58,7 +58,7 @@ const HeroSection = () => {
             <Linkedin size={20} />
           </a>
           <a
-            href="https://drive.google.com/file/d/1TEb4o55iF1kR-EVk4aQ8zIsAg8H9cw55/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1BqWopZm6ACWUNbUiwXFq3vtydmTGoZIt/view?usp=sharing"
             download
             className="flex items-center gap-2 px-4 py-2 rounded-lg bg-primary text-primary-foreground hover:bg-primary/80 transition-all duration-200 text-sm font-medium"
           >
